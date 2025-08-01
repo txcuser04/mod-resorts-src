@@ -1,0 +1,6 @@
+# Exclude target directory
+.classpath
+.project
+.settings/
+target/
+**/.DS_Store
